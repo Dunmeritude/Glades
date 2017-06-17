@@ -1,0 +1,8 @@
+Generator debug info
+--------------------
+
+RPW version:  4.3.1 on Windows 10
+Java version: Java(TM) SE Runtime Environment 1.8.0_131
+MC+assets v.: 1.11.2+1.11m
+
+Generated:    2017/06/16
