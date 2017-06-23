@@ -1,0 +1,13 @@
+{
+    "pack":{
+        "pack_format":1,
+        "description": "Custom Item Names for Glades."
+    },
+    "language":{
+        "en_Glades":{
+            "name":"Wasteland English",
+            "region":"English",
+            "bidirectional":false
+        }
+    }
+}
